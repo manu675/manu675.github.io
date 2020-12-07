@@ -1,3 +1,14 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 About my personal page
 ------
 I am a M.Sc. graduate from Copenhagen Business School and I am currently applying for PhD programs in Statistics and/or Data Science. 
