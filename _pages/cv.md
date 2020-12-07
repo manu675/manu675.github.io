@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: "/files/Academic_CV_Nov 2020.pdf"
 author_profile: true
 redirect_from:
   - /resume
