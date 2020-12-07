@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/MSc_thesis
+collection: Research Projects
+permalink: /publication/
 excerpt: 'Lastest version of my M.Sc.Thesis (Joint work with Conor Cavanaugh).'
 date: 2020-10-07
 venue: 'Journal 1'
