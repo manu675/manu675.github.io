@@ -27,5 +27,7 @@ produce the most accurate point forecasts and uncertainty measures for traffic d
 EMS data, our results show that both recurrent neural networks and Exponential Smoothing
 state space models which can account for complex seasonal patterns perform best with respect
 to point forecasts, whereas the quality of the prediction intervals of the latter is the highest.
-Keywords: Bagged ETS, GRU, LSTM, Prediction Intervals, Smart City,
+
+## Keywords: 
+Bagged ETS, GRU, LSTM, Prediction Intervals, Smart City,
 TBATS, LGBM, Time Series
