@@ -4,7 +4,28 @@ collection: Research Projects
 permalink: /publication/
 excerpt: 'Lastest version of my M.Sc.Thesis (Joint work with Conor Cavanaugh).'
 date: 2020-10-07
-venue: 'unpublished'
+#venue: 'unpublished'
 paperurl: 'https://drive.google.com/file/d/1u9qpnKkDpaSc_xqgpSBipwLp9tm9hXZ7'
 
 ---
+
+## **Abstract**
+
+Smart Cities strive to leverage information and communication technologies in order to analyze
+the growing amount of available data on the ecosystems of modern cities with the aim
+of making central infrastructure components and services of a city more interconnected and
+efficient. A key element of this is knowledge about future conditions which can be obtained
+through forecasting models. The most recent developments seen in the M4 and M5 forecasting
+competitions illustrate how far Machine Learning methods have evolved. Therefore, this paper
+compares and contrasts established statistical forecasting models, ensemble methods as well
+as recurrent neural networks with respect to point forecasts and prediction intervals. Using
+publicly available high-frequency data from the New York City Open Data platform, we analyze
+large univariate time series of traffic flows and Emergency Medical Services (EMS) data.
+We detect multiple levels of seasonality in the high-frequency data considered in this paper,
+which complicates finding suitable forecasting models. We find that recurrent neural networks
+produce the most accurate point forecasts and uncertainty measures for traffic data. For the
+EMS data, our results show that both recurrent neural networks and Exponential Smoothing
+state space models which can account for complex seasonal patterns perform best with respect
+to point forecasts, whereas the quality of the prediction intervals of the latter is the highest.
+Keywords: Bagged ETS, GRU, LSTM, Prediction Intervals, Smart City,
+TBATS, LGBM, Time Series
