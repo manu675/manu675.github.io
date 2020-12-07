@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://manu675.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/images" # the subpath of your site, e.g. "/blog"
 repository               : "manu675.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Manuel Schreiber"
-  avatar           : images/IMG_1626.JPG
+  avatar           : IMG_1626.JPG
   bio              : "M.Sc. Graduate in Advanced Economics and Finance"
   location         : "Copenhagen"
   employer         : "Copenhagen Business School"
